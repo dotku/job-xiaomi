@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "xiaomi-jobs": {
+      "command": "/Users/wlin/dev/job-xiaomi/.venv/bin/python",
+      "args": ["/Users/wlin/dev/job-xiaomi/xiaomi_jobs_mcp.py"],
+      "env": {}
+    }
+  }
+}
